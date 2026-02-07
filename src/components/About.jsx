@@ -14,7 +14,7 @@ const STAGGER = 0.08;
 
 // Replace with your own URLs: real photo + anime-style portrait
 const ABOUT_IMAGE = {
-  photo: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+  
   anime:
     "https://i.pinimg.com/736x/7f/78/22/7f782235063de037a978053f102e1c70.jpg",
 };

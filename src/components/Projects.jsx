@@ -25,7 +25,7 @@ const PROJECTS = [
     ],
     tech: "Python, Requests, Node.js, scikit-learn, Vercel",
     timeline: "Aug 2025",
-    liveUrl: "#",
+    liveUrl: "https://web-fuzzing-tool01.vercel.app/",
     liveLabel: "Live Project",
     videoUrl: "",
     posterUrl: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",

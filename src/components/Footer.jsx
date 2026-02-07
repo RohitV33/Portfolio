@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 
 const LINKS = [
-  { label: "LinkedIn", href: "#" },
-  { label: "GitHub", href: "#" },
-  { label: "Twitter", href: "#" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/rohit-verma-21ab511b4/" },
+  { label: "GitHub", href: "https://github.com/RohitV33" },
+  { label: "Instagram", href: "https://www.instagram.com/rohitunmasked" },
 ];
 
 export default function Footer() {

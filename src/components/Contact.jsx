@@ -117,7 +117,7 @@ export default function Contact() {
             onMouseLeave={() => setCursor("", "default")}
             className="text-white/90 hover:text-white font-medium transition-colors"
           >
-            hello@example.com
+            verma61421st@gmail.com
           </a>
         </motion.div>
       </div>
