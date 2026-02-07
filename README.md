@@ -7,13 +7,15 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 ---
 
 ## 📸 Preview
-![Portfolio Preview](./public/preview.png)
+<img width="1893" height="904" alt="image" src="https://github.com/user-attachments/assets/92f7ccb8-9bcb-4935-9e9e-7a406304cb72" />
+
+
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate frontend developer focused on building clean, user-friendly, and high-performance web applications.  
+I’m a passionate full stack developer focused on building clean, user-friendly, and high-performance web applications.  
 I enjoy creating modern UI experiences with smooth animations and scalable code.
 
 ---
