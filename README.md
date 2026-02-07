@@ -1,16 +1,43 @@
-# React + Vite
+# 🚀 Rohit Verma — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **Live Website:** https://rawhit.vercel.app  
 
-Currently, two official plugins are available:
+A modern, responsive portfolio website showcasing my projects, skills, and experience as a frontend developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📸 Preview
+![Portfolio Preview](./public/preview.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 👨‍💻 About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I’m a passionate frontend developer focused on building clean, user-friendly, and high-performance web applications.  
+I enjoy creating modern UI experiences with smooth animations and scalable code.
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ React.js
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🎞 Framer Motion
+- 💻 JavaScript (ES6+)
+- 🚀 Vercel (Deployment)
+
+---
+
+## ✨ Features
+
+- Fully responsive design
+- Smooth page transitions & animations
+- Modern dark UI
+- Fast performance with Vite
+- Clean and maintainable code structure
+
+---
+
+## 📂 Folder Structure
+
