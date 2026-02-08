@@ -60,7 +60,7 @@ const PROJECTS = [
     ],
     tech: "React.js, Recharts, TailwindCSS",
     timeline: "Nov 2025",
-    liveUrl: "#",
+    liveUrl: "https://github.com/RohitV33/Student-tracker",
     liveLabel: "Live Project",
     videoUrl: "",
     posterUrl: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
